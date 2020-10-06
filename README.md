@@ -1,17 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to a page about airplanes!
+### Below are some links to pages about airplanes:
+[General Airplanes Facts](https://en.wikipedia.org/wiki/Airplane)
+[Boeing 707](https://en.wikipedia.org/wiki/Boeing_707)
+[A380](https://en.wikipedia.org/wiki/Airbus_A380)
 
-You can use the [editor on GitHub](https://github.com/corvad/MyPage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# My Name is David Corvaglia 
+# Header 1 
 ## Header 2
 ### Header 3
 
