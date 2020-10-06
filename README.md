@@ -7,4 +7,4 @@
 
 [A380](https://en.wikipedia.org/wiki/Airbus_A380)
 
-## Don't Forget To check Out My Blog About Airplanes: [Link](https://corvad.github.io/mypage/blog/
+## Don't Forget To check Out My Blog About Airplanes: [Link](https://corvad.github.io/mypage/blog/)
