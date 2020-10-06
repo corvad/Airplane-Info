@@ -1,4 +1,4 @@
-## Welcome my page about airplanes!
+## Welcome to my page about airplanes!
 
 ### Below are some links to pages about airplanes:
 [General Airplanes Facts](https://en.wikipedia.org/wiki/Airplane)
