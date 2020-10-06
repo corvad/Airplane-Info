@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Airplane Blog!"
-permalink: /blog/
+permalink: /Blog/
 ---
 ##Welcome to David's Blog About Airplanes
